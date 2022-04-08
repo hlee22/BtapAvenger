@@ -1,0 +1,27 @@
+.home{
+    background-image: url(../src/BTAvenger/img/avanger.jpg )  ;
+    background-size: cover;
+    
+   
+    padding: 50px;
+    
+}
+
+.header{
+    background-color: blue;
+    padding: 50px;
+}
+.content{
+    padding: 50px;
+
+}
+
+.navComp{
+    background-color:greenyellow ;
+    padding: 50px;
+}
+
+.footer{
+    background-color: darkblue;
+    padding: 50px;
+}
